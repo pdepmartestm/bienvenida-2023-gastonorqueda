@@ -2,6 +2,10 @@
 
 Mi nombre es Gaston Orqueda.
 
+Legajo 203.917-5
+
+<img width="35%" align="right" alt="Github" src="88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 - 🔭 Estoy cursando Ingenería en sistemas
 - 📚 Soy desarrollador de software desde hace 3 años
 - 👯 Actualmente trabajo con tecnologías como Angular y C#, además de dominar metodologías ágiles y codigo limpio (o porlomenos se intenta).
